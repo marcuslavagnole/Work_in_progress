@@ -1,7 +1,5 @@
 # Work_in_progress
 
-## Work in progress
-
 ### Under review 
 
 - Reducing Inequalities by Using an Unbiased Machine Learning Approach to Identify Births with the Highest Risk of Preventable Neonatal Deaths. <br>
