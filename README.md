@@ -1,6 +1,6 @@
 # Work in progress
 
-### _Methods_
+### _Survey statistics_
 
 - A Bayesian approach to multiple-output quantile regression analysis under informative sampling. <br>
 (with [Kelly C. M. Gonçalves](https://sites.google.com/dme.ufrj.br/kelly/)) <br>
@@ -10,7 +10,7 @@
 (with [Kelly C. M. Gonçalves](https://sites.google.com/dme.ufrj.br/kelly/)) <br>
 [[code]](https://github.com/marcuslavagnole/BWQR_Informative_Sampling)
 
-### _Applications_
+### _Applications_ 
 
 - Reducing Inequalities by Using an Unbiased Machine Learning Approach to Identify Births with the Highest Risk of Preventable Neonatal Deaths. <br>
 (with [Antonio P. Ramos](https://tomramos.github.io/), [Fabio Caldierado](https://ebape.fgv.br/pessoas/fabio-caldieraro), [Raphael Saldanha](https://rfsaldanha.github.io/)) <br>
